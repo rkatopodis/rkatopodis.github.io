@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning with Weightless Neural Networks (Master's Dissertation)"
 collection: publications
-permalink: /publication/dissertation
+permalink: /publication/2022-01-17-reinforcement-learning-with-weightless-neural-networks
 excerpt: 'My Master's dissertation, on the challenges of employing weightless networks in reinforcement learning tasks.'
 date: 2022-01-17
 venue:
